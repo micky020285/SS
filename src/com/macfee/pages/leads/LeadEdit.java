@@ -23,7 +23,7 @@ import com.mcafee.framework.PropertiesReader;
 
 public class LeadEdit 
 {
-
+//Lead edit page
 	private WebDriver driver;
 	private PropertiesReader propObject;
 	
